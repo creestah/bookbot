@@ -2,8 +2,6 @@
 
 BookBot is a small command-line program that analyzes a text file. It reports the total word count and lists each letter found in the text, ordered from most frequent to least frequent.
 
-This project was built as part of the [Boot.dev](https://www.boot.dev) curriculum.
-
 ## Requirements
 
 - Python 3
